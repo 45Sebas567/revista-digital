@@ -1,0 +1,18 @@
+   # Dependencias de desarrollo (tu código no las usa)
+   /vendor/
+
+   # Contraseñas del servidor (SetEnv)
+   .htaccess
+   .env
+   .env.*
+
+   # Basura del sistema y del editor
+   .DS_Store
+   Thumbs.db
+   __MACOSX/
+   .vscode/
+
+   # Otros
+   .github/modernize/
+   *.bak
+   *.log

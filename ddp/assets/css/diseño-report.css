@@ -1,0 +1,43 @@
+/* Solo decora el area de imagen; la card y su contenido conservan el estilo original. */
+.grids5-info.reportajes-secundarios > a {
+  background: linear-gradient(to bottom, #dc030c 50%, #fff 50%);
+  border-radius: 24px;
+  display: block;
+  overflow: hidden;
+}
+
+.grids5-info.reportajes-secundarios > a > img {
+  clip-path: polygon(
+    0 0,
+    65% 0,
+    69% .2%,
+    73% .7%,
+    77% 1.8%,
+    81% 3.3%,
+    85% 5.4%,
+    88.5% 8.1%,
+    91.5% 11.5%,
+    94% 15.5%,
+    96% 20%,
+    97.6% 25%,
+    98.8% 30.5%,
+    99.6% 36.5%,
+    100% 43%,
+    100% 50%,
+    99.6% 56.5%,
+    98.9% 60.5%,
+    98.0% 65.0%,
+    96.8% 69.5%,
+    95.5% 73.5%,
+    94.45% 77.0%,
+    93.48% 80.0%,
+    92.58% 83.0%,
+    91.75% 86.0%,
+    91.0% 88.5%,
+    89.5% 95.0%,
+    89.5% 94.6%,
+    88% 100%,
+    0 100%
+  );
+  display: block;
+}

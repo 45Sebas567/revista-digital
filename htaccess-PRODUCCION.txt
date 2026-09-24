@@ -1,0 +1,5 @@
+SetEnv DDP_DB_HOST "sql206.infinityfree.com"
+SetEnv DDP_DB_USER "if0_42998966"
+SetEnv DDP_DB_PASSWORD "TU_PASSWORD_REAL"
+SetEnv DDP_DB_NAME "if0_42998966_revista"
+SetEnv DDP_DB_PORT "3306"
