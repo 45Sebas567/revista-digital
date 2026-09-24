@@ -41,3 +41,11 @@ Abre la URL pública en este orden:
 Si algo falla, activa temporalmente `display_errors` o prueba la conexión
 mysqli aislada para saber en qué capa está el problema (código, base de
 datos, o variables de entorno).
+
+## Usuario administrador
+
+Usuario admin creado en revista_digital2.
+
+Email: admin@ddp.pe
+Contraseña: 461c4edb8dce
+Rol: admin
